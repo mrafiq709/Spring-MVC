@@ -1,2 +1,2 @@
-# Spring-MVC
-Spring MVC Practice
+# DispatcherServlet Spring-MVC
+How to works with DispatcherServlet Spring-MVC (not spring boot)
