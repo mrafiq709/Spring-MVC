@@ -1,2 +1,2 @@
-# Spring-MVC
-Spring MVC Practice
+# SpringBootMysqlLogin
+Spring Boot, Sceurity, MySQL, Thymleaf
